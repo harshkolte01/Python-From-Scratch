@@ -80,3 +80,4 @@ desktop.ini
 *.temp
 *.bak
 *.swp
+.gitignore
