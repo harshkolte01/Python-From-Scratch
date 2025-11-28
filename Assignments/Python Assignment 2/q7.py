@@ -6,7 +6,7 @@ while True:
         break
 
     a = int(a)
-    if a % 2 == 0:
-        print("Even")
+    if a > 0:
+        print("Positive")
     else:
-        print("Odd")
+        print("Negative")
